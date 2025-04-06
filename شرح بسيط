@@ -1,0 +1,80 @@
+fornt end 
+
+Home 
+Product listing 
+Product details
+cart 
+Sign in
+Sign up
+my list 
+orders
+search
+my account 
+contact
+about us
+
+
+npm install react-router-dom
+تحميل React Router 
+  ropting فيه صفحات متعددة بتسمحلك تعمل  (react) دي مكتبة اساسية في اي مشروع  
+زي 
+/home
+/products
+/cart
+/login
+
+
+إيه هي MUI؟
+MUI هي مكتبة واجهة مستخدم مفتوحة المصدر لتصميم واجهات جميلة واحترافية باستخدام Material Design.
+
+بتساعد المطورين على بناء واجهات مستخدم متناسقة وسهلة الاستخدام، وبتوفر مجموعة كبيرة من المكونات الجاهزة زي الأزرار، القوائم، الجداول، والنماذج.
+
+الأوامر اللي استخدمتها لتثبيت MUI في المشروع:
+تثبيت مكتبة MUI الرئيسية:
+
+bash
+Copy
+Edit
+npm install @mui/material @emotion/react @emotion/styled
+ده بيثبت MUI (المكتبة الرئيسية)، وكمان Emotion، وهي مكتبة خاصة بالتنسيقات (CSS-in-JS).
+
+تثبيت مكتبة Styled Engine:
+
+bash
+Copy
+Edit
+npm install @mui/material @mui/styled-engine-sc styled-components
+ده بيثبت Styled Engine عشان تستخدم styled-components مع MUI، لو حابب تستخدمها بدل الـ CSS العادي.
+
+تثبيت مكتبة أيقونات MUI:
+
+bash
+Copy
+Edit
+npm install @mui/icons-material
+ده بيثبت أيقونات MUI الجاهزة، اللي بتسهل إضافة الأيقونات لمشروعك.
+
+ليه استخدمت الأوامر دي؟
+MUI بتوفر مكونات جاهزة تقدر تستخدمها في مشروعك عشان تبني واجهات مستخدم بسهولة وبسرعة.
+
+Emotion هي مكتبة للتنسيق مع MUI، بتسمحلك بكتابة CSS داخل JavaScript.
+
+Styled Engine بتسهل استخدام الـ styled-components مع MUI.
+
+أيقونات MUI بتوفر لك مجموعة كبيرة من الأيقونات الجاهزة للـ Material Design.
+
+مزايا استخدام MUI في مشروعك:
+تصميم حديث ومتناسق: كل مكونات المكتبة مبنية وفقًا لـ Material Design.
+
+مكونات جاهزة: مكتبة MUI تحتوي على مكونات UI جاهزة زي الأزرار، النماذج، الجداول، القوائم وغيرها.
+
+تخصيص سهل: تقدر تخصص الشكل والمظهر بسهولة باستخدام الـ Theme.
+
+أداء عالي: مكتبة MUI سريعة وموفرة للموار
+
+
+
+
+https://youtu.be/dbcuhULYJMs?si=2kqzWCAB0FpAxN3O
+دقيقة 
+23:28
